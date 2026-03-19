@@ -1,3 +1,0 @@
-VoodooPC đang chuẩn bị thiết lập một cột mốc mới trong phân khúc máy tính để bàn cao cấp với dòng sản phẩm sở hữu dung lượng lưu trữ lên tới 8.000 GB. Để hình dung về quy mô này, lượng dữ liệu mà thiết bị có thể chứa tương đương với khối lượng thông tin văn bản in trên số giấy sản xuất từ 400.000 thân cây. Dự kiến ra mắt vào cuối năm nay, hệ thống sẽ vận hành trên nền tảng Windows Vista, hệ điều hành 64 bit thuần chủng đầu tiên của Microsoft nhưng vẫn đảm bảo khả năng tương thích ngược hoàn hảo với các ứng dụng 32 bit.
-
-Về hiệu năng thực tế, cấu hình này được tối ưu hóa cho các tác

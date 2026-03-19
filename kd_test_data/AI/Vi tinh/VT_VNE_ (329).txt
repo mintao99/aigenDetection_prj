@@ -1,3 +1,0 @@
-Tựa game Blade mang đến cho người dùng trải nghiệm đối kháng chuyên sâu thông qua việc mô phỏng kỹ thuật đấu kiếm trên nền tảng đồ họa 3D. Hệ thống hình ảnh của trò chơi được tối ưu hóa để tạo ra những chuyển động uyển chuyển, gợi nhắc đến phong cách Mortal Kombat trên hệ máy PS2. Với bốn nhân vật khác nhau, mỗi thực thể đều được xây dựng trong các môi trường chiến đấu đa dạng, giúp tăng cường hiệu ứng thị giác trong suốt quá trình trải nghiệm.
-
-Về mặt âm thanh, Blade gây ấn tượng nhờ khả năng tái tạo trung thực các tín hiệu va chạm vật lý của vũ khí. Cơ chế gameplay cho phép người dùng lựa chọn giữa chế độ thi đấu với AI hoặc kết nối trực tiếp với

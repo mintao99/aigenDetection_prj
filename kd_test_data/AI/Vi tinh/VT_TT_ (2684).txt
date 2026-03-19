@@ -1,3 +1,0 @@
-Ask Jeeves vừa chính thức triển khai giải pháp tìm kiếm hình ảnh thế hệ mới với khả năng lập chỉ mục quy mô lớn, đủ sức cạnh tranh trực tiếp với các nền tảng hàng đầu từ Google hay Yahoo. Về mặt trải nghiệm người dùng, giao diện của hệ thống được tối ưu hóa theo hướng tinh gọn và trực quan, trình bày các kết quả theo cấu trúc lưới đồng nhất giúp quá trình duyệt dữ liệu trở nên hiệu quả hơn. Điểm nhấn kỹ thuật nằm ở cơ chế phân loại và hướng dẫn tìm kiếm nâng cao, một tính năng mà các thuật toán hiện tại của đối thủ vẫn chưa khai thác triệt để.
-
-Khác với phương thức liệt kê kết quả đơn thuần hoặc ưu tiên nội dung thương mại của các công cụ khác, hệ thống

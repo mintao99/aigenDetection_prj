@@ -1,3 +1,0 @@
-Việc truyền tải các tệp tin có dung lượng lớn qua hệ thống thư điện tử thường gặp phải rào cản từ giới hạn kích thước đính kèm của các máy chủ mail. Trong bối cảnh đó, người dùng thường phải cân nhắc sử dụng các giao thức truyền tải tệp chuyên dụng như FTP, vốn đòi hỏi cấu hình kỹ thuật khá phức tạp. Tuy nhiên, giải pháp Pumpkin TFTP xuất hiện như một công cụ thay thế tối ưu, giúp đơn giản hóa quy trình này mà không cần kiến thức chuyên sâu về hạ tầng mạng. Đây là một phần mềm miễn phí, cho phép thiết lập kết nối trực tiếp giữa hai điểm đầu cuối mà không cần thông qua trung gian của các máy chủ lưu trữ thư.
-
-Với dung lượng cài đặt cực kỳ

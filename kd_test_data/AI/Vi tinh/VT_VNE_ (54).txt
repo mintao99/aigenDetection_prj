@@ -1,3 +1,0 @@
-Hai gã khổng lồ trong ngành bán dẫn là AMD và Intel đang tiến hành một bước đi chiến lược khi tích hợp trực tiếp khả năng phòng chống mã độc vào kiến trúc vi xử lý. Công nghệ này tập trung vào việc ngăn chặn các cuộc tấn công khai thác lỗi tràn bộ đệm, một phương thức phổ biến mà tin tặc thường dùng để chiếm quyền điều khiển hệ thống. Bằng cách can thiệp từ lớp phần cứng trên các dòng chip Athlon 64 và Prescott, các nhà sản xuất kỳ vọng sẽ tạo ra một hàng rào bảo vệ vững chắc trước khi các mối đe dọa kịp tiếp cận phần mềm.
-
-Về mặt kỹ thuật, giải pháp này hoạt động dựa trên cơ chế bảo vệ thực thi dữ liệu. Thay vì
