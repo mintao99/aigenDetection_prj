@@ -1,0 +1,2 @@
+Dữ liệu cá nhân là những thông tin về cá nhân mà có thể được sử dụng để nhận diện hoặc liên hệ với họ. Bảo vệ dữ liệu cá nhân là rất quan trọng để bảo vệ quyền riêng tư, ngăn chặn lạm dụng, và xây dựng niềm tin vào các tổ chức. Tuy nhiên, với sự phát triển của công nghệ, dữ liệu cá nhân ngày càng bị thu thập, lưu trữ, và sử dụng mà không được sự đồng ý hoặc kiến thức của cá nhân.
+Để bảo vệ dữ liệu cá nhân, cần phải có các luật bảo vệ dữ liệu, quyền của cá nhân để tiếp cập và kiểm soát dữ liệu của họ, và các chế tài đối với những tổ chức lạm dụng dữ liệu.

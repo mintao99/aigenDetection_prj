@@ -1,0 +1,3 @@
+Đại học Bách khoa Singapore vừa triển khai một bước tiến mới trong lộ trình đào tạo nhân lực an ninh mạng bằng việc tích hợp các kỹ thuật thâm nhập hệ thống vào giáo trình chính thức cho sinh viên chuyên ngành điện và điện tử. Thay vì chỉ tiếp cận lý thuyết phòng thủ thụ động, chương trình này trực tiếp hướng dẫn các phương thức tấn công và xâm nhập máy tính nhằm giúp người học nắm vững cơ chế vận hành của các mối đe dọa thực tế. Đây được xem là sự chuyển dịch quan trọng trong tư duy giáo dục công nghệ tại quốc gia này.
+
+Bắt đầu từ tuần tới, các khóa đào tạo chuyên sâu về kỹ năng tấn công và gây nhiễu hạ tầng mạng sẽ được tổ chức tại trung tâm dữ liệu

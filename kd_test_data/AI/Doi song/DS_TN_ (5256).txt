@@ -1,0 +1,45 @@
+ thoughtful
+Journalist specializing in life and society.
+Rewriting a text about sexual health and intimacy concerns.
+Approachable, easy to read, storytelling, human-centric.
+
+        *   Length: 150-300 words.
+        *   Format: Plain text only.
+        *   No Markdown (no **, #, -, bullet points).
+        *   No lists or sections.
+        *   Natural paragraphs.
+        *   Preserve meaning but rephrase.
+        *   No external analysis.
+
+    *   *Topic 1: Duration of sex/Premature ejaculation.* Men worry about time as a measure of prowess. There's no fixed rule. It depends on excitement levels, frequency, and psychology. Longer isn't always better if the partner is just "enduring." Mutual satisfaction is key.
+    *   *Topic 2: Erectile dysfunction/Lack of arousal.* Sometimes "he" doesn't obey. It's not necessarily impotence. Stress and fatigue play a role. Women also experience lack of arousal (dryness). Partners shouldn't tease; they should be supportive.
+    *   *Topic 3: Hygiene/Perception of genitals.* People worry about cleanliness. If healthy and cared for, it's clean and "lovely" like any other body part. Daily care is important.
+
+    *   *Opening:* Start with the common silent worries couples face. Use the "journalist" voice—empathetic and observational.
+    *   *Body Paragraph 1 (Duration):* Focus on the male anxiety about "reaching the finish line." Use a metaphor or conversational tone. Explain that it's not a math problem but a feeling.
+    *   *Body Paragraph 2 (Performance/Arousal):* Address the "stubbornness" of the body. Emphasize the psychological aspect and the need for partner support instead of criticism.
+    *   *Body Paragraph 3 (Hygiene):* Address the "garden" metaphor. Normalize the care of these areas.
+
+    *   *Word count check:* Aim for ~220-250 words.
+    *   *Style check:* Plain text, no bolding, no headers.
+
+    *Drafting text:*
+    Trong hành trình lứa đôi, có những nỗi niềm thầm kín mà dù gắn bó đến đâu, nhiều người vẫn ngần ngại sẻ chia. Phổ biến nhất là nỗi lo về thời gian, khi các quý ông thường lấy kim đồng hồ làm thước đo cho bản lĩnh. Thực tế, chuyện yêu không giống như việc đo vải may áo hay đong đếm bát cơm để lấy sức cày cuốc. Sự thăng hoa đến sớm hay muộn phụ thuộc rất nhiều vào cảm xúc và tần suất gần gũi. Đôi khi, việc kéo dài quá mức mà thiếu đi sự đồng điệu từ đối phương lại vô tình biến cuộc vui thành một sự chịu đựng. Quan trọng nhất vẫn là cảm giác hài lòng từ cả hai phía.
+
+    Cũng có những lúc cơ thể không nghe theo mệnh lệnh của trái tim. Khi cậu bé bướng bỉnh hay khu vườn tình yêu bỗng trở nên nguội lạnh, đừng vội vàng kết tội hay lo lắng thái quá. Sự mệt mỏi và áp lực tâm lý chính là rào cản lớn nhất khiến mọi thứ không diễn ra như ý. Thay vì buông lời chê trách hay trêu chọc làm tổn thương đối tác, sự thấu hiểu và vỗ về mới là liều thuốc quý giá nhất. Hãy để tâm trí được nghỉ ngơi, bởi sự ức chế chỉ khiến những sự cố tương tự dễ lặp lại hơn.
+
+    Bên cạnh đó, nỗi băn khoăn về sự sạch sẽ của vùng nhạy cảm cũng khiến nhiều người e dè. Đừng mặc định đó là nơi không trong lành, bởi nếu được chăm sóc và yêu thương đúng cách, nó cũng đáng quý như bất kỳ bộ phận nào khác trên cơ thể. Việc giữ gìn vệ sinh hằng ngày không chỉ bảo vệ sức khỏe mà còn là cách chúng ta trân trọng chính mình và người bạn đời trong mỗi khoảnh khắc giao thoa nồng nàn.
+
+    *   Plain text? Yes.
+    *   No Markdown? Yes.
+    *   No headers/bullets? Yes.
+    *   150-300 words? Let's count. Roughly 240 words. Perfect.
+    *   Natural paragraphs? Yes.
+    *   Journalistic style? Yes.
+
+    (Self-correction: Ensure no bolding or special characters are left).
+Trong hành trình lứa đôi, có những nỗi niềm thầm kín mà dù gắn bó đến đâu, nhiều người vẫn ngần ngại sẻ chia. Phổ biến nhất là nỗi lo về thời gian, khi các quý ông thường lấy kim đồng hồ làm thước đo cho bản lĩnh. Thực tế, chuyện yêu không giống như việc đo vải may áo hay đong đếm bát cơm để lấy sức làm việc. Sự thăng hoa đến sớm hay muộn phụ thuộc rất nhiều vào cảm xúc tích lũy và tần suất gần gũi của mỗi người. Đôi khi, việc kéo dài quá mức mà thiếu đi sự đồng điệu từ đối phương lại vô tình biến cuộc vui thành một sự chịu đựng. Điều cốt lõi không nằm ở con số bao nhiêu phút, mà là sự hài lòng và thấu hiểu từ cả hai phía.
+
+Cũng có những lúc cơ thể không nghe theo mệnh lệnh của trái tim. Khi cậu bé bỗng trở nên bướng bỉnh hay khu vườn tình yêu của phái đẹp bỗng nguội lạnh, đừng vội vàng kết tội bản thân hay đối tác. Sự mệt mỏi và áp lực tâm lý chính là rào cản lớn nhất khiến mọi thứ không diễn ra như ý muốn. Thay vì buông lời chê trách hay trêu chọc làm tổn thương nhau, sự thấu hiểu và vỗ về lúc này mới là liều thuốc quý giá nhất. Hãy để tâm trí được nghỉ ngơi và thư giãn, bởi sự ức chế tâm lý chỉ khiến những sự cố tương tự dễ dàng lặp lại hơn trong tương lai.
+
+Bên cạnh đó, nỗi băn khoăn về sự trong lành của vùng nhạy cảm cũng khiến không ít người e dè khi gần gũi. Đừng bao giờ mặc định đó là nơi không sạch sẽ, bởi nếu được chăm sóc và yêu thương đúng cách, nó cũng đáng quý và an toàn như bất kỳ bộ phận nào khác trên cơ thể. Việc giữ gìn vệ sinh hằng ngày không chỉ là thói quen bảo vệ sức khỏe, mà còn là cách chúng ta trân trọng chính mình và thể hiện sự tôn trọng đối với người bạn đời trong mỗi khoảnh khắc giao thoa nồng nàn.

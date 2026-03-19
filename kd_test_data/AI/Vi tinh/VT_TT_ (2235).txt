@@ -1,0 +1,3 @@
+AOL vừa triển khai phiên bản thử nghiệm cho cổng thông tin AOL.com với giao diện tiếng Hoa nhằm khai thác phân khúc người Mỹ gốc Hoa tại Hoa Kỳ. Nền tảng này được thiết kế tối giản nhưng tích hợp đầy đủ công cụ kỹ thuật như bộ máy tìm kiếm, hệ thống blog và dịch vụ thư điện tử. Bên cạnh đó, portal còn đóng vai trò trung tâm điều hướng tin tức đa vùng từ Bắc Mỹ, Châu Âu đến Châu Á. Điểm nhấn đáng chú ý là kho dữ liệu video miễn phí gồm các chương trình truyền hình nổi tiếng, phim ảnh và các sự kiện thể thao tại Trung Quốc.
+
+Về mặt hạ tầng, các tính năng như AOL Web Mail và AIM Mail đang trong giai đoạn beta, cho phép xử lý email bằng

@@ -1,0 +1,127 @@
+ think
+*   Topic: Wikipedia (caution, features, pros/cons, open-source nature).
+    *   Key points:
+        *   Huge data, 60m daily hits, 1.5m articles, 195 languages.
+        *   Additional services: Wiktionary, Wikinews.
+        *   Not equivalent to standard encyclopedias like Larousse/Britannica.
+        *   Accuracy issues (e.g., John Seigenthaler incident 2005).
+        *   Open-source model allows massive info but creates insecurity/bias.
+        *   Comparison: C'T magazine rated Wikipedia (3.6) higher than Brockhaus (3.3) and Encarta (3.1) in 2004.
+        *   Strengths: Technical content, news, community.
+        *   Awards: Golden Nica, Webby.
+        *   Founder: Jimmy Wales.
+        *   Review system: 13,000 volunteers (including experts), but still requires user caution.
+
+    *   Role: Technology expert.
+    *   Style: Technical information, product evaluation, tech trends.
+    *   Length: 150-300 words.
+    *   Format: Plain text only.
+    *   Constraints: No Markdown (no bold, no headers, no bullet points, no lists). Natural paragraphs.
+    *   Content: Keep original meaning, rephrase, no outside analysis.
+
+    *   *Introduction:* Wikipedia has become a massive data phenomenon in the digital information era with approximately 60 million daily hits. This open-source platform manages over 1.5 million articles across 195 languages, expanding into ecosystems like Wiktionary and Wikinews. However, from a technical and editorial perspective, it operates differently from traditional databases like Britannica or Larousse.
+    *   *Accuracy/Security:* A significant vulnerability in its open-editing architecture was exposed in late 2005 when the profile of John Seigenthaler was compromised for six months. While the open-source model facilitates a vast, real-time updated knowledge base, it introduces risks regarding data integrity and objective accuracy, especially on sensitive topics.
+    *   *Evaluation/Comparison:* Despite criticisms, Wikipedia's performance metrics are impressive. In a 2004 benchmark by C’T magazine, Wikipedia scored 3.6 out of 5, surpassing Microsoft Encarta and Brockhaus. Experts highlight its superiority in technical documentation and current events due to its community-driven nature. This has earned it prestigious accolades like the Golden Nica and Webby awards.
+    *   *Governance:* To mitigate risks, Wikipedia employs a decentralized moderation system with 13,000 volunteers, including academics. While this adds a layer of verification, the inherent nature of user-generated content means that absolute precision cannot be guaranteed. Users are advised to treat it as a reference source rather than a definitive citation.
+
+    *   Check word count: The draft looks to be around 200-250 words.
+    *   Check formatting: Plain text, no symbols, no lists.
+    *   Check tone: Tech-focused, professional.
+    *   Check content: All points from the original included.
+
+    Wikipedia hien dang la mot he sinh thai du lieu khong lo voi khoang 60 trieu luot truy cap moi ngay va co so du lieu len den 1,5 trieu bai viet tren 195 ngon ngu. Ngoai phien ban bách khoa toan thu, nen tang nay con mo rong sang cac phan hieu nhu Wiktionary va Wikinews. Tuy nhien, ve mat kien truc du lieu va tieu chuan bien tap, Wikipedia khong the duoc xem la dong nhat voi cac kho luu tru chuan muc nhu Britannica hay Larousse. Mot lo hong ve tinh xac thuc du lieu da tung xay ra vao cuoi nam 2005 khi thong tin ve John Seigenthaler bi sai lech suot sau thang moi bi phat hien. Mo hinh ma nguon mo cho phep nguoi dung tu do hieu chinh noi dung giup he thong cap nhat thong tin thoi gian thuc cuc nhanh nhung lai gay ra rui ro ve tinh chinh xac va tinh khach quan.
+
+    Mac du vay, duoi goc do hieu nang va tinh huu dung, Wikipedia van duoc cac chuyen gia cong nghe danh gia cao. Tap chi may tinh C’T tung xep hang Wikipedia dat 3,6 tren 5 diem, vuot qua ca Encarta cua Microsoft va Brockhaus. Cac nha nghien cuu nhan dinh rang the manh cua nen tang nay nam o cac mang noi dung ve ky thuat va su kien thoi su nho vao tinh cong dong vuot troi. Voi nhung thanh tuu do, Wikipedia da nhan duoc nhieu giai thuong danh gia nhu Golden Nica va Webby. De kiem soat chat luong, he thong duy tri mang luoi 13.000 tinh nguyen vien gom nhieu chuyen gia de kiem duyet noi dung truoc khi xuat ban. Du co co che hau kiem, nguoi dung van can giu thai do than trong va chi nen su dung day nhu mot nguon tham khao bo sung thay vi coi la quy chuan tuyet doi.
+
+    *Wait, I need to make sure I don't use marks like ** or headers.*
+
+    *Revised text (Vietnamese):*
+    Wikipedia hien dang la mot he sinh thai du lieu khong lo voi khoang 60 trieu luot truy cap moi ngay va co so du lieu len den 1,5 trieu bai viet tren 195 ngon ngu. Ngoai phien ban bach khoa toan thu, nen tang nay con mo rong sang cac phan hieu nhu Wiktionary va Wikinews. Tuy nhien, ve mat kien truc du lieu va tieu chuan bien tap, Wikipedia khong the duoc xem la dong nhat voi cac kho luu tru chuan muc nhu Britannica hay Larousse. Mot lo hong ve tinh xac thuc du lieu da tung xay ra vao cuoi nam 2005 khi thong tin ve John Seigenthaler bi sai lech suot sau thang moi bi phat hien. Mo hinh ma nguon mo cho phep nguoi dung tu do hieu chinh noi dung giup he thong cap nhat thong tin thoi gian thuc cuc nhanh nhung lai gay ra rui ro ve tinh chinh xac va tinh khach quan.
+
+    Mac du vay, duoi goc do hieu nang va tinh huu dung, Wikipedia van duoc cac chuyen gia cong nghe danh gia cao. Tap chi may tinh C’T tung xep hang Wikipedia dat 3,6 tren 5 diem, vuot qua ca Encarta cua Microsoft va Brockhaus. Cac nha nghien cuu nhan dinh rang the manh cua nen tang nay nam o cac mang noi dung ve ky thuat va su kien thoi su nho vao tinh cong dong vuot troi. Voi nhung thanh tuu do, Wikipedia da nhan duoc nhieu giai thuong danh gia nhu Golden Nica va Webby. De kiem soat chat luong, he thong duy tri mang luoi 13.000 tinh nguyen vien gom nhieu chuyen gia de kiem duyet noi dung truoc khi xuat ban. Du co co che hau kiem, nguoi dung van can giu thai do than trong va chi nen su dung day nhu mot nguon tham khao bo sung thay vi coi la quy chuan tuyet doi.
+
+    *Check length:* Approximately 230 words. Perfect.
+    *Check formatting:* Plain text, no Markdown. Perfect.
+    *Check tone:* Tech-oriented. Perfect.
+
+    *Wait, the prompt says "Không sử dụng Markdown, tiêu đề, ký hiệu **, #, -, bullet points".*
+    *The text must be plain text.*
+
+    *Let's double check content points:*
+    - 60m hits/day? Yes.
+    - 1.5m articles, 195 languages? Yes.
+    - Wiktionary/Wikinews? Yes.
+    - Britannica/Larousse comparison? Yes.
+    - John Seigenthaler case? Yes.
+    - Open source pros/cons? Yes.
+    - C'T magazine score (3.6 vs 3.1 vs 3.3)? Yes.
+    - Emigh/Herring (Indiana Uni) opinion? (Need to add "Indiana University" and the professors).
+    - Awards (Golden Nica, Webby)? Yes.
+    - Jimmy Wales (founder, Berkman Center)? Yes.
+    - 13,000 volunteers? Yes.
+    - Caution? Yes.
+
+    *Refining the draft to include the Indiana University professors and Jimmy Wales:*
+
+    Wikipedia hien dang la mot hien tuong du lieu so voi luu luong truy cap len den 60 trieu luot moi ngay va kho noi dung khong lo gom 1,5 trieu bai viet tren 195 ngon ngu. Nen tang nay khong chi dung lai o bach khoa toan thu ma con mo rong cac phan hieu nhu Wiktionary va Wikinews. Tuy nhien, xet ve kien truc du lieu va do tin cay, Wikipedia van chua the dat den cac tieu chuan nghiem ngat nhu Britannica hay Larousse. Mot su co nghiem trong ve tinh xac thuc da xay ra nam 2005 khi thong tin ve John Seigenthaler bi sai lech suot sau thang. Mo hinh ma nguon mo cho phep nguoi dung tu do bien tap giup he thong luon moi me nhung lai gay ra nhung rui ro ve tinh chinh xac va quan diem ca nhan trong cac linh vuc nhay cam.
+
+    Dau vay, Wikipedia van la mot nguon tham khao cong nghe dang gia. Tap chi C’T cua Duc tung danh gia Wikipedia dat 3,6 diem, cao hon ca Encarta cua Microsoft va Brockhaus. Hai giao su Emigh va Herring tu Dai hoc Indiana cung nhan dinh rang nen tang nay cai thien dang ke cac nguon thong tin truyen thong, dac biet la o mang ky thuat va thoi su. Voi tinh cong dong manh me, Wikipedia da nhan duoc nhieu giai thuong nhu Golden Nica va Webby, trong khi nguoi sang lap Jimmy Wales van giu vung uy tin trong nganh thong tin va tro thanh thanh vien danh du tai Trung tam Berkman thuoc Dai hoc Harvard. Hien tai, he thong van hanh voi 13.000 tinh nguyen vien kiem duyet noi dung, bao gom ca cac chuyen gia dau nganh. Tuy nhien, do dac thu cua du lieu nguoi dung dong gop, su than trong van la yeu to kien quyet khi khai thac thong tin tu dia chi nay.
+
+    *Word count check:* 265 words. Perfect.
+    *Formatting check:* Plain text. No symbols. No bullet points.
+
+    One final check: "Không sử dụng Markdown, tiêu đề, ký hiệu **, #, -, bullet points."
+    The output should be just the paragraphs.
+
+    Ready.
+
+    *Self-Correction during drafting:* Ensure I don't use any bolding or italics. The prompt says "plain text".
+
+    Text:
+    Wikipedia hiện đang là một hiện tượng dữ liệu số với lưu lượng truy cập lên đến 60 triệu lượt mỗi ngày và kho nội dung khổng lồ gồm 1,5 triệu bài viết trên 195 ngôn ngữ. Nền tảng này không chỉ dừng lại ở bách khoa toàn thư mà còn mở rộng các phân hiệu như Wiktionary và Wikinews. Tuy nhiên, xét về kiến trúc dữ liệu và độ tin cậy, Wikipedia vẫn chưa thể đạt đến các tiêu chuẩn nghiêm ngặt như Britannica hay Larousse. Một sự cố nghiêm trọng về tính xác thực đã xảy ra năm 2005 khi thông tin về John Seigenthaler bị sai lệch suốt sáu tháng. Mô hình mã nguồn mở cho phép người dùng tự do biên tập giúp hệ thống luôn mới mẻ nhưng lại gây ra những rủi ro về tính chính xác và quan điểm cá nhân trong các lĩnh vực nhạy cảm.
+
+    Dẫu vậy, Wikipedia vẫn là một nguồn tham khảo công nghệ đáng giá. Tạp chí C’T của Đức từng đánh giá Wikipedia đạt 3,6 điểm, cao hơn cả Encarta của Microsoft và Brockhaus. Hai giáo sư Emigh và Herring từ Đại học Indiana cũng nhận định rằng nền tảng này cải thiện đáng kể các nguồn thông tin truyền thống, đặc biệt là ở mảng kỹ thuật và thời sự. Với tính cộng đồng mạnh mẽ, Wikipedia đã nhận được nhiều giải thưởng như Golden Nica và Webby, trong khi người sáng lập Jimmy Wales vẫn giữ vững uy tín trong ngành thông tin và trở thành thành viên danh dự tại Trung tâm Berkman thuộc Đại học Harvard. Hiện tại, hệ thống vận hành với 13.000 tình nguyện viên kiểm duyệt nội dung, bao gồm cả các chuyên gia đầu ngành. Tuy nhiên, do đặc thù của dữ liệu người dùng đóng góp, sự thận trọng vẫn là yếu tố kiên quyết khi khai thác thông tin từ địa chỉ này.
+
+    *Double check symbols:* No #, no *, no -, no bullets.
+    *Double check length:* 252 words. Perfect.
+    *Style:* Tech expert.
+
+    Final check on "Không chia mục hay danh sách": Yes, just two paragraphs.
+
+    Wait, I should make sure I don't use any symbols at all if possible, though commas and periods are necessary for text. The prompt says "không sử dụng ký hiệu **, #, -, bullet points". Standard punctuation is fine.
+
+    One more check: "Không thêm phân tích ngoài nội dung gốc."
+    The text stays within the original's claims.
+
+    Final Polish:
+    Wikipedia hien dang la mot hien tuong du lieu so voi luu luong truy cap len den 60 trieu luot moi ngay va kho noi dung khong lo gom 1,5 trieu bai viet tren 195 ngon ngu. Nen tang nay khong chi dung lai o bach khoa toan thu ma con mo rong cac phan hieu nhu Wiktionary va Wikinews. Tuy nhien, xet ve kien truc du lieu va do tin cay, Wikipedia van chua the dat den cac tieu chuan nghiem ngat nhu Britannica hay Larousse. Mot su co nghiem trong ve tinh xac thuc da xay ra nam 2005 khi thong tin ve John Seigenthaler bi sai lech suot sau thang. Mo hinh ma nguon mo cho phep nguoi dung tu do bien tap giup he thong luon moi me nhung lai gay ra nhung rui ro ve tinh chinh xac va quan diem ca nhan trong cac linh vuc nhay cam.
+
+    Dau vay, Wikipedia van la mot nguon tham khao cong nghe dang gia. Tap chi C’T cua Duc tung danh gia Wikipedia dat 3,6 diem, cao hon ca Encarta cua Microsoft va Brockhaus. Hai giao su Emigh va Herring tu Dai hoc Indiana cung nhan dinh rang nen tang nay cai thien dang ke cac nguon thong tin truyen thong, dac biet la o mang ky thuat va thoi su. Voi tinh cong dong manh me, Wikipedia da nhan duoc nhieu giai thuong nhu Golden Nica va Webby, trong khi nguoi sang lap Jimmy Wales van giu vung uy tin trong nganh thong tin va tro thanh thanh vien danh du tai Trung tam Berkman thuoc Dai hoc Harvard. Hien tai, he thong van hanh voi 13.000 tinh nguyen vien kiem duyet noi dung, bao gom ca cac chuyen gia dau nganh. Tuy nhien, do dac thu cua du lieu nguoi dung dong gop, su than trong van la yeu to kien quyet khi khai thac thong tin tu dia chi nay.
+
+    (I will use Vietnamese accents as the original was in Vietnamese).
+
+    *Wait, the prompt says "Viết lại văn bản dưới đây...".*
+    The original is in Vietnamese, so the output should be in Vietnamese.
+
+    Final check on constraints:
+    - 150-300 words? Yes (approx 250).
+    - Plain text? Yes.
+    - No Markdown/Headers/Symbols? Yes.
+    - No lists? Yes.
+    - Natural paragraphs? Yes.
+    - Keep meaning? Yes.
+    - No extra analysis? Yes.
+
+    One tiny detail: "Larousse hoặc Britannica". I'll keep those.
+    "John Seigenthaler". I'll keep that.
+    "C’T". I'll keep that.
+    "Emigh và Herring". I'll keep that.
+    "Jimmy Wales". I'll keep that.
+    "Golden Nica", "Webby". I'll keep those.
+
+    Ready.
+
+    One thought: Should I use "chùa" like the original? The original says "bách khoa chùa". In a tech expert style, maybe use "nền tảng mở" or "nguồn mở" instead. The prompt says "diễn đạt lại bằng từ ngữ khác". "Nền tảng mã nguồn mở" fits the tech persona better.
+
+
+Wikipedia hiện đang là một hiện tượng dữ liệu số với lưu lượng truy cập lên đến 60 triệu lượt mỗi ngày và kho nội dung khổng lồ gồm 1,5 triệu bài viết trên 195 ngôn ngữ. Hệ sinh thái này không chỉ dừng lại ở bách khoa toàn thư mà còn mở rộng các phân hiệu như Wiktionary và Wikinews. Tuy nhiên, xét về kiến trúc dữ liệu và tiêu chuẩn biên tập, Wikipedia vẫn chưa thể đạt đến các quy chuẩn nghiêm ngặt như Britannica hay Larousse. Một sự cố nghiêm trọng về tính xác thực đã xảy ra vào cuối năm 2005 khi thông tin về John Seigenthaler bị sai lệch suốt sáu tháng mới được phát hiện. Mô hình mã nguồn mở cho phép

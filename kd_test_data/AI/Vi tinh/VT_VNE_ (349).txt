@@ -1,0 +1,3 @@
+Ngay sau sự bùng nổ của biến thể Bagle.B, cộng đồng an ninh mạng tiếp tục ghi nhận sự xuất hiện của một mã độc mới mang tên Netsky.B hay còn gọi là Moodown.B. Về mặt kỹ thuật, loại sâu máy tính này có khả năng can thiệp trực tiếp vào hệ thống để vô hiệu hóa các tiến trình của phần mềm diệt virus đang hoạt động. Sau khi chiếm quyền kiểm soát, nó tiến hành khai thác dữ liệu địa chỉ email và tự động nhân bản vào các thư mục lưu trữ trên hệ thống mạng nội bộ cũng như các nền tảng chia sẻ dữ liệu trực tuyến.
+
+Phương thức phát tán chủ yếu của Netsky.B dựa trên giao thức email và các mạng ngang hàng P2P phổ

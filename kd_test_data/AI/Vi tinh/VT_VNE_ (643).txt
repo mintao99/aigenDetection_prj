@@ -1,0 +1,3 @@
+Mạng lưới thông tin toàn cầu đang trở thành công cụ đắc lực cho các tổ chức cực đoan thực hiện chiến dịch truyền thông qua việc phát tán nội dung bạo lực. Về mặt kỹ thuật, việc truy vết các hoạt động này đối mặt với nhiều thách thức do cấu trúc đa lớp của Internet. Ở lớp bề mặt, các chuyên gia an ninh mạng có thể dễ dàng xác định địa chỉ IP và vị trí máy chủ vật lý của các website chỉ trong vài giây. Tuy nhiên, khi đi sâu vào lớp dữ liệu truyền tải, việc xác định nguồn gốc tin nhắn hay video trở nên phức tạp hơn khi các đối tượng thường tận dụng các máy chủ trung gian và điểm truy cập công cộng để xóa dấu vết.
+
+Thách thức lớn nhất nằm
